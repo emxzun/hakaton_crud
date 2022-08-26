@@ -1,0 +1,19 @@
+[
+    {
+        "id": "203930",
+        "title": "roma",
+        "price": 2432,
+        "description": "roman",
+        "created_at": "26.08.2022 20:39",
+        "status": "\u043f\u0440\u043e\u0434\u0430\u0435\u0442\u0441\u044f",
+        "updated_at": "260822, 20:59"
+    },
+    {
+        "id": "213442",
+        "title": "Iphone",
+        "price": "213123",
+        "description": "Phone",
+        "created_at": "26.08.2022 21:34",
+        "status": "\u043f\u0440\u043e\u0434\u0430\u0435\u0442\u0441\u044f"
+    }
+]
